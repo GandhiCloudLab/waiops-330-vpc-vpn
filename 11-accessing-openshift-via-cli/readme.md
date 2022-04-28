@@ -20,10 +20,14 @@ The following are required as a prereq for proceeding with this document.
 
 ## Steps
 
-1. Substitute the <virtual-server-ip> in the below command and run the same in a command shell to ssh into the virtual server. Use `Password` if needed.
+1. Substitute the <virtual-server-ip> in the below command 
+
+2. Run the command in a command shell to ssh into the virtual server. Use `Password` if needed.
 
 ```
 ssh root@<virtual-server-ip>
 ```
 
 2. Run the `oc login .....` command copied from the OpenShift Console.
+
+You should have logged into OCP vial CLI from the Virtual Server.
