@@ -9,9 +9,11 @@ This document is based on https://pages.github.ibm.com/hdm-swat/guides/vpn-secur
 The following are required as a prereq for proceeding with this document.
 
 -  Proxy Virtual Server IP Address (where  strongSwan is installed)
+
     Ex: `1.2.3.4`
 
 -  Private URL of the Openshift console
+
     Ex: `https://c111-e.private.us-south.containers.cloud.ibm.com:11111`
 
 
@@ -19,11 +21,11 @@ The following are required as a prereq for proceeding with this document.
 
 Here are the steps we are going to do
 
-1. Create a new Firefox profile (one time process)
-2. Create an ssh proxy to the strongSwan in Virtual Server
+1. Create new Firefox profile (one time process)
+2. Create ssh proxy to the strongSwan in Virtual Server
 3. Access OpenShift Console
 
-### 1.1. Create a new Firefox profile
+### 1.1. Create new Firefox profile
 
 This is a one time process. 
 
@@ -76,16 +78,15 @@ It opens new browser window.
 <img src="images/image-00008.png">
 
 
-### 1.2. Create an ssh proxy to the strongSwan in Virtual Server
+### 1.2. Create ssh proxy to the strongSwan in Virtual Server
 
-Replace <virtual-server-ip> in the below command and run the same in a command shell.
+Replace < virtual-server-ip > in the below command and run the same in a command shell.
 
 ```
 ssh -N -D 4444 root@<virtual-server-ip>
 ```
 
 Leave this session open
-
 
 ### 1.3. Access OpenShift Console
 
