@@ -92,7 +92,7 @@ Leave this session open
 
 1. Enter `about:profiles` in the address bar of the Firefox browser.
 
-<img src="images/image-0000.png">
+<img src="images/image-0001.png">
 
 About Profile page opens.
 
