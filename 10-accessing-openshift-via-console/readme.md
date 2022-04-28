@@ -25,7 +25,7 @@ Here are the steps we are going to do
 2. Create ssh proxy to the strongSwan in Virtual Server
 3. Access OpenShift Console
 
-### 1.1. Create new Firefox profile
+## 1. Create new Firefox profile
 
 This is a one time process. 
 
@@ -78,7 +78,7 @@ It opens new browser window.
 <img src="images/image-00008.png">
 
 
-### 1.2. Create ssh proxy to the strongSwan in Virtual Server
+## 2. Create ssh proxy to the strongSwan in Virtual Server
 
 Replace < virtual-server-ip > in the below command and run the same in a command shell.
 
@@ -88,7 +88,7 @@ ssh -N -D 4444 root@<virtual-server-ip>
 
 Leave this session open
 
-### 1.3. Access OpenShift Console
+## 3. Access OpenShift Console
 
 1. Enter `about:profiles` in the address bar of the Firefox browser.
 
