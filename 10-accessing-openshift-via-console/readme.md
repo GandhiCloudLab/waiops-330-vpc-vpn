@@ -92,7 +92,7 @@ Leave this session open
 
 1. Enter `about:profiles` in the address bar of the Firefox browser.
 
-<img src="images/image-0001.png">
+<img src="images/image-00001.png">
 
 About Profile page opens.
 
@@ -100,13 +100,13 @@ Already created profile is available in the bottom of the page.
 
 2. Click `Launch profile in new browser`
 
-<img src="images/image-0005.png">
+<img src="images/image-00005.png">
 
 3. Enter the `Private URL of the Openshift`
 
-<img src="images/image-0009.png">
+<img src="images/image-00009.png">
 
 4. After the login and all you can see the Openshift console page.
 
-<img src="images/image-0010.png">
+<img src="images/image-00010.png">
 
