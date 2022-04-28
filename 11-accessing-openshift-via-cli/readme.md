@@ -28,6 +28,6 @@ The following are required as a prereq for proceeding with this document.
 ssh root@<virtual-server-ip>
 ```
 
-2. Run the `oc login .....` command copied from the OpenShift Console.
+3. Run the `oc login .....` command copied from the OpenShift Console.
 
 You should have logged into OCP vial CLI from the Virtual Server.
