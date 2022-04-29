@@ -2,10 +2,6 @@
 
 This document explains about how to access OpenShift installed in VPC via CLI.
 
-- Accessing OpenShift via CLI from Virtual Server
-
-This document is based on https://pages.github.ibm.com/hdm-swat/guides/vpn-secured-cluster/
-
 ## PreRequisite
 
 The following are required as a prereq for proceeding with this document.

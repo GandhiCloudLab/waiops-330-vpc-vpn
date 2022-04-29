@@ -1,6 +1,6 @@
-# Accessing OpenShift via Console
+# Accessing Watson AIOps AI-Manager Console
 
-This document explains about how to access OpenShift installed in VPC via Console 
+This document explains about how to access Watson AIOps AI-Manager Console.
 
 ## 1. Create new profile in Firefox profile
 
@@ -26,14 +26,18 @@ Already created profile is available in the bottom of the page.
 
 <img src="images/image-00005.png">
 
-3. Enter the `Private URL of the Openshift`
+3. Enter the AI-Mgr url in the browser. 
 
-<img src="images/image-00009.png">
+The URL, User, Password details you should have received like this.
 
-4. After the login and all you can see the Openshift console page.
+```
+=====================================================================================================
+URL : https://cpd-cp4waiops.aaaaaaaa.ams03.containers.appdomain.cloud
+USER: admin
+PASSWORD: EpU2m........................jYUz
+=====================================================================================================
 
-<img src="images/image-00010.png">
-
+```
 
 ## References
 
