@@ -12,7 +12,7 @@ Refer [../22-create-new-profile-in-firefox](../22-create-new-profile-in-firefox)
 
 Refer [../23-create-ssh-proxy-to-virtual-server](../23-create-ssh-proxy-to-virtual-server)
 
-## 3. Access OpenShift Console
+## 3. Access AI-Manager Console
 
 1. Enter `about:profiles` in the address bar of the Firefox browser.
 
