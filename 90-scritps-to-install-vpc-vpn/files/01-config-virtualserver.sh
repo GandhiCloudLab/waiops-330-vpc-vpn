@@ -1,0 +1,8 @@
+#!/bin/bash
+
+#### VM - 
+VPN_PEER_CIDR=11.22.33.0/26
+VPN_PEER_IP=11.11.11.11
+VPN_PRESHARED_KEY=bbbbbbb
+
+

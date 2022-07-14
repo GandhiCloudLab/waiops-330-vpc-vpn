@@ -1,0 +1,4 @@
+
+
+After the Virtual Server is installed...copy the IPs, CIDR of the Virtual server to 01-config-virtualserver.sh file.
+
